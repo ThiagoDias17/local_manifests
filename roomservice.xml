@@ -2,9 +2,9 @@
 <manifest>
 
   <!-- Device Trees -->
-  <project path="device/xiaomi/blossom" name="ThiagoDias46/device_xiaomi_garden" remote="github" revision="CrDroid-11" />
+  <project path="device/xiaomi/blossom" name="ThiagoDias17/device_xiaomi_garden" remote="github" revision="CrDroid-11" />
 
   <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/blossom" name="ThiagoDias46/proprietary_vendor_xiaomi_blossom" remote="github" revision="garden-11" />
+  <project path="vendor/xiaomi/blossom" name="ThiagoDias17/proprietary_vendor_xiaomi_blossom" remote="github" revision="garden-11" />
 
 </manifest>
