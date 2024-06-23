@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device Trees -->
+  <project path="device/xiaomi/blossom" name="ThiagoDias46/device_xiaomi_garden" remote="github" revision="CrDroid-11" />
+
+  <!-- Vendor Trees -->
+  <project path="vendor/xiaomi/blossom" name="ThiagoDias46/proprietary_vendor_xiaomi_blossom" remote="github" revision="garden-11" />
+
+</manifest>
